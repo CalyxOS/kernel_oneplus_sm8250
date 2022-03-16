@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "10185008_2d750a93",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-03-16T17:18:44Z",
+      "side": 1,
+      "message": "sm8250 uses qca6390_defconfig which already has this change",
+      "revId": "7dfff61898f6eee146c9271011c1c2a466b5f1e7",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
