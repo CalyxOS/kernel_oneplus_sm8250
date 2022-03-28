@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b3e47491_d2552cb2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-03-28T19:55:06Z",
+      "side": 1,
+      "message": "A proper solution for this is to regenerate the config too. Maybe send this upstream?",
+      "revId": "1a319a70aa7c6220d3f77b2efa251c1ebbb24a7d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
